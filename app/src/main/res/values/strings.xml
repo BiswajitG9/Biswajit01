@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Biswajit01</string>
+    <string name="heading">My First Andorid App</string>
+    <string name="signup_text">Don\'t have an account? SignUp!</string>
+</resources>
